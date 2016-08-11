@@ -1,0 +1,65 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+hr {
+	color: gray;
+}
+
+p {
+	text-align: center;
+}
+
+div {
+	float: left;
+}
+
+
+h4 {
+	font-size: .75em
+}
+
+h5	{
+	font-size: 1.5em
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	margin-bottom: 40px;
+}
+
+.heading {
+	text-decoration: underline;
+}
+
+.bot_divs {
+	text-align: center;
+	width: 45vw;
+}
+
+#menu {
+	border: 2px dashed black;
+	width: 20vw;
+	height: 30vh;
+}
+
+#image	{
+	vertical-align: top;
+	margin-right: 150px;
+	float:right;
+	width: 40vw;
+}
+
+#about {
+	border-right: 4px solid black;
+}
+
+
